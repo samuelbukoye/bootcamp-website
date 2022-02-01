@@ -14,9 +14,9 @@ const Boxes = () => {
                   Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                   Corrupti architecto culpa incidunt earum eligendi assumenda.
                 </p>
-                <a href="#" className="btn btn-primary">
+                <button className="btn btn-primary">
                   Read More
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -31,9 +31,9 @@ const Boxes = () => {
                   Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                   Corrupti architecto culpa incidunt earum eligendi assumenda.
                 </p>
-                <a href="#" className="btn btn-dark">
+                <button className="btn btn-dark">
                   Read More
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -48,9 +48,9 @@ const Boxes = () => {
                   Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                   Corrupti architecto culpa incidunt earum eligendi assumenda.
                 </p>
-                <a href="#" className="btn btn-primary">
+                <button className="btn btn-primary">
                   Read More
-                </a>
+                </button>
               </div>
             </div>
           </div>

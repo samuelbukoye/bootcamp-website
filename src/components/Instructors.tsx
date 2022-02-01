@@ -21,16 +21,16 @@ const Instructors = () => {
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                   Inventore error rem dolorum ipsum excepturi perspiciatis.
                 </p>
-                <a href="#">
+                <a href="https://twitter.com/PSTARLYKZ?t=G1h03TY4jjlkwjxpAAepNg&s=09">
                   <i className="bi bi-twitter text-dark mx-1"></i>
                 </a>
-                <a href="#">
+                <a href="https://www.facebook.com/pstarlyk">
                   <i className="bi bi-facebook text-dark mx-1"></i>
                 </a>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/bukoye-samuel-5426321b7">
                   <i className="bi bi-linkedin text-dark mx-1"></i>
                 </a>
-                <a href="#">
+                <a href="https://www.instagram.com/mztee_sam">
                   <i className="bi bi-instagram text-dark mx-1"></i>
                 </a>
               </div>
@@ -49,16 +49,16 @@ const Instructors = () => {
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                   Inventore error rem dolorum ipsum excepturi perspiciatis.
                 </p>
-                <a href="#">
+                <a href="https://twitter.com/PSTARLYKZ?t=G1h03TY4jjlkwjxpAAepNg&s=09">
                   <i className="bi bi-twitter text-dark mx-1"></i>
                 </a>
-                <a href="#">
+                <a href="https://www.facebook.com/pstarlyk">
                   <i className="bi bi-facebook text-dark mx-1"></i>
                 </a>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/bukoye-samuel-5426321b7">
                   <i className="bi bi-linkedin text-dark mx-1"></i>
                 </a>
-                <a href="#">
+                <a href="https://www.instagram.com/mztee_sam">
                   <i className="bi bi-instagram text-dark mx-1"></i>
                 </a>
               </div>
@@ -77,16 +77,16 @@ const Instructors = () => {
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                   Inventore error rem dolorum ipsum excepturi perspiciatis.
                 </p>
-                <a href="#">
+                <a href="https://twitter.com/PSTARLYKZ?t=G1h03TY4jjlkwjxpAAepNg&s=09">
                   <i className="bi bi-twitter text-dark mx-1"></i>
                 </a>
-                <a href="#">
+                <a href="https://www.facebook.com/pstarlyk">
                   <i className="bi bi-facebook text-dark mx-1"></i>
                 </a>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/bukoye-samuel-5426321b7">
                   <i className="bi bi-linkedin text-dark mx-1"></i>
                 </a>
-                <a href="#">
+                <a href="https://www.instagram.com/mztee_sam">
                   <i className="bi bi-instagram text-dark mx-1"></i>
                 </a>
               </div>
@@ -105,16 +105,16 @@ const Instructors = () => {
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                   Inventore error rem dolorum ipsum excepturi perspiciatis.
                 </p>
-                <a href="#">
+                <a href="https://twitter.com/PSTARLYKZ?t=G1h03TY4jjlkwjxpAAepNg&s=09">
                   <i className="bi bi-twitter text-dark mx-1"></i>
                 </a>
-                <a href="#">
+                <a href="https://www.facebook.com/pstarlyk">
                   <i className="bi bi-facebook text-dark mx-1"></i>
                 </a>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/bukoye-samuel-5426321b7">
                   <i className="bi bi-linkedin text-dark mx-1"></i>
                 </a>
-                <a href="#">
+                <a href="https://www.instagram.com/mztee_sam">
                   <i className="bi bi-instagram text-dark mx-1"></i>
                 </a>
               </div>

@@ -2,7 +2,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg bg-dark navbar-dark py-3 fixed-top">
       <div className="container">
-        <a href="#" className="navbar-brand">
+        <a href="#top" className="navbar-brand">
           Frontend Bootcamp
         </a>
         <button
