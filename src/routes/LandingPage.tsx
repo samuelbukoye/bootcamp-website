@@ -7,6 +7,7 @@ import QuestionAccordion from '../components/QuestionAccordion';
 import Instructors from '../components/Instructors';
 import ContactEtMap from '../components/ContactEtMap';
 import Footer from '../components/Footer';
+import Modal from '../components/Modal';
 
 function LandingPage() {
   return (
@@ -18,8 +19,9 @@ function LandingPage() {
       <LearnSections />
       <QuestionAccordion />
       <Instructors />
-      <ContactEtMap />
+      {/* <ContactEtMap /> */}
       <Footer />
+      <Modal />
     </div>
   );
 }

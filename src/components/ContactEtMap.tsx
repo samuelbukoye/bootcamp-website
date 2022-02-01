@@ -1,4 +1,16 @@
+import mapboxgl from 'mapbox-gl';
+
 const ContactEtMap = () => {
+  mapboxgl.accessToken =
+    'pk.eyJ1IjoicHN0YXJseWsiLCJhIjoiY2t4aHZocGY1MDRrYTJycWt5d3psbXBseSJ9.XJdIhUYxjSNQNl13nfSuTA';
+
+  const map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/streets-v11',
+    center: [6.55, 3.35],
+    zoom: 18,
+  });
+
   return (
     <section className="p-5 ">
       <div className="container">
@@ -29,12 +41,11 @@ const ContactEtMap = () => {
             </ul>
           </div>
           <div className="col-md">
-            <div id="map"></div>
+            <div id="map" className="map-container" />
           </div>
         </div>
       </div>
     </section>
   );
 };
-
 export default ContactEtMap;
