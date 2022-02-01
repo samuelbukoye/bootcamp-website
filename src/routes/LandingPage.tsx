@@ -19,7 +19,7 @@ function LandingPage() {
       <LearnSections />
       <QuestionAccordion />
       <Instructors />
-      {/* <ContactEtMap /> */}
+      <ContactEtMap />
       <Footer />
       <Modal />
     </div>
