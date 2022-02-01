@@ -22,7 +22,7 @@ const LearnSections = () => {
                 consectetur nisi adipisci alias, totam minima quae deserunt
                 aliquam. Quidem veritatis quasi autem iste!
               </p>
-              <a href="#" className="btn btn-light mt-3">
+              <a href="#questions" className="btn btn-light mt-3">
                 <i className="bi bi-chevron-right"></i> Read More
               </a>
             </div>
@@ -44,7 +44,7 @@ const LearnSections = () => {
                 consectetur nisi adipisci alias, totam minima quae deserunt
                 aliquam. Quidem veritatis quasi autem iste!
               </p>
-              <a href="#" className="btn btn-light mt-3">
+              <a href="#questions" className="btn btn-light mt-3">
                 <i className="bi bi-chevron-right"></i> Read More
               </a>
             </div>
